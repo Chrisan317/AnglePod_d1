@@ -1,5 +1,7 @@
 # AnglePod_d1 - Tilt Meter
 
+[English](README_EN.md) | 中文
+
 一個基於 **Wemos D1 Mini** 的數字傾斜計量表，使用 **LSM6DS3** 加速度計和 **OLED 顯示屏** 實時顯示傾斜角度。
 
 ## 功能特性
